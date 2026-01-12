@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Nurse
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nurse\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=id\ name\ shift\ extraAllowance
+comment1.target=Nurse(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getShift()
+comment3.params=shift
+comment3.target=void\ setShift(int)
+comment4.params=
+comment4.target=java.lang.String\ ExtraAllowance()
+comment5.params=extraAllowance
+comment5.target=void\ setExtraAllowance(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
